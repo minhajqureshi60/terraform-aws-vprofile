@@ -18,7 +18,7 @@ variable "PUB_KEY_PATH" {
 variable "USERNAME" {
   default = "ubuntu"
 }
-variable "MVIP" {
+variable "MyIP" {
   default = "183.83.39.124/32"
 }
 variable "rmquser" {
